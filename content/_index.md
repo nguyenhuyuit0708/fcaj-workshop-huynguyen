@@ -31,7 +31,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 26/09/2026 to 26/3/2027
 
-![Your profile picture](/images/anh_the.jpg)
+![Your profile picture](./images/anh_the.jpg)
 
 ### Report Content
 
