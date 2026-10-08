@@ -21,7 +21,7 @@ chapter: false
 
 &emsp; **University:** Ho Chi Minh City University of Technology and Education
 
-&emsp; **Major:** Information Technology
+&emsp; **Major:** iii Technology
 
 &emsp; **Class:** AWS082025
 
